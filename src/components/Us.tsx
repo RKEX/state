@@ -40,14 +40,14 @@ function Add() {
           <Button
             radius="full"
             onClick={() => setScore2(score2 - 10)}
-            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-4 py-2"
+            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-3 py-2"
           >
             -10
           </Button>
           <Button
             radius="full"
             onClick={() => setScore2(score2 + 10)}
-            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-2 py-2"
+            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-3 py-2"
           >
             +10
           </Button>
