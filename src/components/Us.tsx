@@ -33,7 +33,7 @@ function Add() {
             className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-6
             py-2"
           >
-            +10
+            +1
           </Button>
         </div>
         <div className="flex gap-2">
