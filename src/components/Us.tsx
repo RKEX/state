@@ -30,7 +30,8 @@ function Add() {
           <Button
             radius="full"
             onClick={() => setScore2(score2 + 1)}
-            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-5 py-2"
+            className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-5xl px-6
+            py-2"
           >
             +1
           </Button>
