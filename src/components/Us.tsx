@@ -57,7 +57,7 @@ function Add() {
             radius="full"
             className="font-semibold bg-gradient-to-tr from-pink-500 to-yellow-500 text-white shadow-lg text-xl px-2 py-2"
             startContent={<RefreshCcw />}
-            onClick={() => window.location.reload()} // Refresh page
+            onClick={() => window.location.reload()}
           >
             Refresh
           </Button>
